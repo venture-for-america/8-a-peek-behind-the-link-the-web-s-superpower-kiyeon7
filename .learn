@@ -1,0 +1,9 @@
+tags:
+  - tag_1
+  - tag_2
+languages:
+  - language_1
+  - language_1
+resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/a-peek-behind-the-link.git
